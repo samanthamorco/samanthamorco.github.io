@@ -261,7 +261,7 @@ a:focus {
     padding-top: 100px;
 }
 
-.projects-section {
+.portfolio-section {
     width: 100%;
     padding: 50px 0;
     color: #fff;
@@ -382,6 +382,15 @@ body {
     max-width: 300px;
     border-radius: 100%;
     margin-top: 10%;
+}
+
+.portfolio-picture{
+    max-width: 300px;
+}
+
+.row {
+    margin-top: 5%;
+    margin-bottom: 5%;
 }
 
 .white {
